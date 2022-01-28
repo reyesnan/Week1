@@ -10,5 +10,5 @@ package studlist;
  * @author Daniel Reyes
  */
 public class partTimeStudents {
-
+private int ID;
 }
